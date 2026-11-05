@@ -34,6 +34,7 @@ Scope
 •	Approval, testing, rollback and validation controls.
 
 **Approach**
+
 **1. Privileged Access Governance**
 
 Access-control practices were reviewed to reduce reliance on shared or weakly attributable administrative access.
