@@ -61,7 +61,7 @@ FEATURED CASE STUDY
 
 Enterprise Access, Change & Patch Risk Governance
 
-Designed and implemented governance improvements across a large enterprise managed-services environment supporting critical infrastructure. The initiative strengthened privileged-access accountability, risk-based decision making, emergency change governance, and security patch management. 【1-87d98d】
+Designed and implemented governance improvements across a large enterprise managed-services environment supporting critical infrastructure. The initiative strengthened privileged-access accountability, risk-based decision making, emergency change governance, and security patch management.
 
 Highlights
 
@@ -71,7 +71,7 @@ Highlights
 • Risk-based change management framework.
 • Privileged access accountability model.
 • Security patch decision framework.
-• Improved audit readiness and operational resilience. 【1-87d98d】
+• Improved audit readiness and operational resilience.
 
 Key Focus Areas
 
@@ -84,7 +84,7 @@ Key Focus Areas
 
 Key Achievement
 
-Shifted operational decision-making from individual judgment-based actions to structured, repeatable, and auditable governance processes. 【1-87d98d】
+Shifted operational decision-making from individual judgment-based actions to structured, repeatable, and auditable governance processes.
 
 --------------------------------------------------
 
@@ -98,7 +98,7 @@ Strong governance should help organizations answer three critical questions:
 2. Who owns the decision?
 3. What controls allow us to proceed safely?
 
-This principle guides my work across infrastructure operations, cybersecurity, cloud services, and managed services governance. 【1-87d98d】
+This principle guides my work across infrastructure operations, cybersecurity, cloud services, and managed services governance. 
 
 --------------------------------------------------
 
