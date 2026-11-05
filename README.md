@@ -56,4 +56,80 @@ This strengthened traceability by making privileged actions attributable to indi
 
 ### 2. Risk-Based Change Governance
 
-A structured risk-assessment framework was developed
+A structured risk-assessment framework was developed to improve consistency in change decisions.
+
+The framework evaluated factors such as:
+
+- Business criticality.
+- Service impact.
+- Change complexity.
+- Technical risk.
+- Testing readiness.
+- Rollback capability.
+- Segregation of duties.
+- Required approvals.
+- Implementation window.
+- Emergency-change justification.
+
+Instead of treating all changes equally, governance requirements became proportional to the level of risk.
+
+### 3. Security Patch Decision Framework
+
+Urgent patching created a recurring decision problem:
+
+**Should a vulnerable production system be patched immediately, or should the operational risk of the change be considered first?**
+
+A risk-based decision model was used considering:
+
+**Threat likelihood × Asset criticality × Vulnerability exposure × Compensating controls × Business impact × Implementation risk**
+
+Critical patches could therefore be prioritized while retaining essential controls such as:
+
+- Authorization.
+- Testing where feasible.
+- Rollback planning.
+- Stakeholder communication.
+- Post-implementation validation.
+
+---
+
+## Governance Model
+
+The operating model separated responsibilities across:
+
+**Requestor → Technical Reviewer → Risk/Change Reviewer → Approver → Implementer → Validator**
+
+This improved segregation of duties and reduced the possibility of uncontrolled changes or access decisions.
+
+---
+
+## Key Outcomes
+
+The initiative strengthened:
+
+- Privileged-access accountability.
+- Risk-based decision-making.
+- Change consistency.
+- Emergency-change governance.
+- Security-patch prioritization.
+- Audit readiness.
+- Operational resilience.
+- Management visibility into infrastructure risk.
+
+The most important outcome was the shift from **individual judgment-based decisions to structured, repeatable and auditable governance**.
+
+---
+
+## Key Leadership Lesson
+
+Effective governance should not simply create more approvals.
+
+Good governance should help leadership answer three questions quickly:
+
+**What is the risk?**
+
+**Who owns the decision?**
+
+**What controls allow us to proceed safely?**
+
+That principle can be applied across infrastructure operations, cloud services, cybersecurity and managed services.
