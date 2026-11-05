@@ -34,7 +34,8 @@ Scope
 •	Approval, testing, rollback and validation controls.
 
 **Approach**
-1. Privileged Access Governance
+**1. Privileged Access Governance**
+
 Access-control practices were reviewed to reduce reliance on shared or weakly attributable administrative access.
 The governance model emphasized:
 
@@ -55,6 +56,7 @@ The governance model emphasized:
 This strengthened traceability by making privileged actions attributable to individual administrators.
 
 **2. Risk-Based Change Governance**
+
 A structured risk-assessment framework was developed to improve consistency in change decisions.
 The framework evaluated factors such as:
 
@@ -81,6 +83,7 @@ The framework evaluated factors such as:
 Instead of treating all changes equally, governance requirements became proportional to the level of risk.
 
 **3. Security Patch Decision Framework**
+
 Urgent patching created a recurring decision problem:
 Should a vulnerable production system be patched immediately, or should the operational risk of the change be considered first?
 A risk-based decision model was used considering:
